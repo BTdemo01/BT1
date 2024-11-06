@@ -1,5 +1,5 @@
-create database quanlyhanghoa;
-USE quanlyhanghoa
+create database pmqlhh;
+USE pmqlhh
 
 create table HANGHOA (
  mahang varchar(10) primary key not null, 
